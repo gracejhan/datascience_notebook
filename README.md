@@ -1,2 +1,2 @@
-# datascience_notebook
-Jupyter Notebooks
+# kaggle_competitions
+Jupyter Notebooks for Kaggle Competitions
