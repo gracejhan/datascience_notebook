@@ -1,2 +1,2 @@
-# kaggle_competitions
-Jupyter Notebooks for Kaggle Competitions
+# Kaggle Competitions
+Jupyter Notebooks for [Kaggle](https://www.kaggle.com/) competitions
